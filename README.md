@@ -9,13 +9,17 @@ Mobile client for Seeyah (currently not in dev, cuz i have other stuff to do, st
 
 # Make
 
-```
+```bash
 git clone https://github.com/LinkfandosVF/seeyan-mobile/
 cd seeyan-mobile
 briefcase create ios
 ```
 Yea you need Xcode for that tho. If you want to build it for android instead, run ```briefcase create android``` instead.
 
+
+
 .. _`Briefcase`: https://briefcase.readthedocs.io/
+
 .. _`The BeeWare Project`: https://beeware.org/
+
 .. _`becoming a financial member of BeeWare`: https://beeware.org/contributing/membership
