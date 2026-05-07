@@ -5,7 +5,16 @@ Seeyah
 `The BeeWare Project`_. **If you want to see more tools like Briefcase, please
 consider** `becoming a financial member of BeeWare`_.
 
-Mobile client for Seeyah
+Mobile client for Seeyah (currently not in dev, cuz i have other stuff to do, stick with the website for now thanks)
+
+# Make
+
+```
+git clone https://github.com/LinkfandosVF/seeyan-mobile/
+cd seeyan-mobile
+briefcase create ios
+```
+Yea you need Xcode for that tho. If you want to build it for android instead, run ```briefcase create android``` instead.
 
 .. _`Briefcase`: https://briefcase.readthedocs.io/
 .. _`The BeeWare Project`: https://beeware.org/
